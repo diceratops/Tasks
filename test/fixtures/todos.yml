@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  author: MyString
+  recipient: MyString
+  title: MyString
+  description: MyText
+  due: 
+
+two:
+  author: MyString
+  recipient: MyString
+  title: MyString
+  description: MyText
+  due: 
